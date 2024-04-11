@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAini&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AziziShaharuddin&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 <!--
 **AziziShaharuddin/AziziShaharuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
